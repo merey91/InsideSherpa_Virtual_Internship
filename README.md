@@ -1,5 +1,5 @@
 # InsideSherpa_Virtual_Internship
-There are some virtual internships from InsideSherpa
+There are some virtual internships Project from InsideSherpa
 
 1.Quantium- Data Analytics
 
