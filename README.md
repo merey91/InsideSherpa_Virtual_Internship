@@ -3,5 +3,6 @@ There are some virtual internships from InsideSherpa
 
 1.Quantium- Data Analytics
 
-1.1 Data preparation and customer analytics
-1.2 
+Task 1- Data preparation and customer analytics
+
+Task 2- Experimentation and uplift testing
