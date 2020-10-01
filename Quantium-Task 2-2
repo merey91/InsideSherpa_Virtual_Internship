@@ -1,1 +1,14 @@
+<h3>Select control store for trial store 88</h3>
 
+# Use those two functions to find the control store
+# Compute correlation with trial store 88
+trial_store = 88
+corr_Nsales = calculateCorrelation(Pretrialmeasures, 'Totsales', trial_store)
+corr_Ncustomers = calculateCorrelation(Pretrialmeasures, 'Ncustomers', trial_store)
+
+# Compute magnitude with trial store 88
+magnitude_Nsales = calculateMagnitudeDistance(Pretrialmeasures, 'Totsales', trial_store)
+magnitude_Ncustomers = calculateMagnitudeDistance(Pretrialmeasures, 'Ncustomers', trial_store)
+
+#Show the first five dataframe
+corr_Nsales.head()
