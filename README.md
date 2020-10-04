@@ -6,3 +6,5 @@ There are some virtual internships experience Porgram from InsideSherpa
 Task 1- Data preparation and customer analytics
 
 Task 2- Experimentation and uplift testing
+
+Task 3- Report (PPT)
